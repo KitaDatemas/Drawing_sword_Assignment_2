@@ -1,1 +1,1 @@
-# Drawing_sword_Assignment_2
+# First time to use Git
